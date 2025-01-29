@@ -80,8 +80,10 @@
       <mj-column width="88%"> 
         <mj-text padding-top="5px" padding-bottom="0" mj-class="T+2 cA+2" text-transform="uppercase">Édito</mj-text>
         <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Quelle nouvelle année !</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Pleine de projets et d'ambitions, 2025 s'annonce riche en promesses. Et ça démarre maintenant ! Je suis particulièrement heureux de vous annoncer le lancement de notre nouveau Mastère en Ingénierie Patrimoniale (bac + 5). Ce diplôme, fruit de plusieurs mois de travail, ouvre de nouvelles perspectives à nos étudiants et nous positionne comme un acteur majeur de la formation supérieure dans notre région.</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Mais ce n'est pas tout ! Notre traditionnelle cérémonie de remise des diplômes a été, une fois de plus, un moment fort en émotions. Voir nos étudiants rayonner de fierté après toutes ces années d'efforts est une immense récompense pour toute l'équipe et un bonheur immense pour leurs familles venues nombreuses malgré les conditions climatiques ! Je tiens à remercier chaleureusement la ville de Tourcoing, en particulier Madame le Maire Doriane Becue  pour leur soutien indéfectible et pour nous avoir accueillis dans les magnifiques salons de la mairie.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Pleine de projets et d'ambitions, 2025 s'annonce riche en promesses. </mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Et ça démarre maintenant ! Je suis particulièrement heureux de vous annoncer le lancement de notre nouveau Mastère en Ingénierie Patrimoniale (bac + 5). Ce diplôme, fruit de plusieurs mois de travail, ouvre de nouvelles perspectives à nos étudiants et nous positionne comme un acteur majeur de la formation supérieure dans notre région.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Mais ce n'est pas tout ! Notre traditionnelle cérémonie de remise des diplômes a été, une fois de plus, un moment fort en émotions. Voir nos étudiants rayonner de fierté après toutes ces années d'efforts est une immense récompense pour toute l'équipe et un bonheur immense pour leurs familles venues nombreuses malgré les conditions climatiques ! </mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Je tiens à remercier chaleureusement la ville de Tourcoing, en particulier Madame le Maire Doriane Becue  pour leur soutien indéfectible et pour nous avoir accueillis dans les magnifiques salons de la mairie.</mj-text>
         <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Ensemble, construisons l'avenir de nos étudiants !</mj-text>
       </mj-column>
     </mj-section>
@@ -93,9 +95,10 @@
         <mj-spacer height="12px"></mj-spacer>
         <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Trading Game</mj-text>
         <mj-text padding="0" align="left" mj-class="T+1 cA+1">Vous avez une âme de gestionnaire de fonds, les marchés boursiers vous fascinent ?</mj-text>
-        <mj-text padding="5px 0" mj-class="cT-0 T+0"> </mj-text>
-        <mj-text padding="5px 0" mj-class="cT-0 T+0">Alors bienvenue à notre concours de trading simulé, une opportunité unique pour nos futurs étudiants de mettre à l'épreuve leurs compétences en investissement ! Venez vous inscrire à nos Journée Portes Ouvertes afin de participer à ce concours du 25/01/2025 au 25/02/2025. De nombreux lots à gagner ! </mj-text>
-        <mj-text padding="5px 0" mj-class="cT-0 T+0">Le but du concours est simple : Vous disposez d'un capital fictif de 100 000 euros et le but est de créer un portefeuille d'actions fictif et réaliser le meilleur rendement sur une période d'un mois. Les participants utiliseront une plateforme de trading virtuelle ABC Bourse pour acheter et vendre des actions réelles en temps réel mais virtuellement</mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T+0">Alors bienvenue à notre concours de trading simulé, une opportunité unique pour nos futurs étudiants de mettre à l'épreuve leurs compétences en investissement ! </mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T+0">Venez vous inscrire à nos Journée Portes Ouvertes afin de participer à ce concours du 25/01/2025 au 25/02/2025. De nombreux lots à gagner ! </mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T+0">Le but du concours est simple : Vous disposez d'un capital fictif de 100 000 euros et le but est de créer un portefeuille d'actions fictif et réaliser le meilleur rendement sur une période d'un mois.</mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T+0">Les participants utiliseront une plateforme de trading virtuelle ABC Bourse pour acheter et vendre des actions réelles en temps réel mais virtuellement.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
@@ -133,7 +136,9 @@
         <mj-spacer height="12px"></mj-spacer>
         <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Job Dating Alternance : </mj-text>
         <mj-text padding="0" align="left" mj-class="T+1 cA+1">Saisissez votre chance le 17 avril 2025 ! </mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">EcoSup Assurance organise un événement unique dans la région : un Job Dating spécial Banque Assurance ! Venez rencontrer de 14h à 17h30 les plus grands acteurs du secteur (Caisse d'Épargne, Crédit Agricole Sofinco, SMA BTP, Malakoff Humanis, Concilian, SwissLife, AXA, ...) et décrocher votre alternance. Bénéficiez de conseils personnalisés de nos partenaires, dont Grafton Recruitement, spécialiste RH du secteur financier. Rencontrez l'OPCO Atlas : acteur indispensable de l'alternance. Avec le soutien de la MEL et du Département du Nord, cet événement est une opportunité en or pour lancer votre carrière !</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Ecosup Assurance organise un événement unique dans la région : un Job Dating spécial Banque Assurance ! </mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Venez rencontrer de 14h à 17h30 les plus grands acteurs du secteur (Caisse d'Épargne, Crédit Agricole Sofinco, SMA BTP, Malakoff Humanis, Concilian, SwissLife, AXA, ...) et décrocher votre alternance. </mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Bénéficiez de conseils personnalisés de nos partenaires, dont Grafton Recruitement, spécialiste RH du secteur financier. Rencontrez l'OPCO Atlas : acteur indispensable de l'alternance. Avec le soutien de la MEL et du Département du Nord, cet événement est une opportunité en or pour lancer votre carrière !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
@@ -143,8 +148,8 @@
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
         <mj-text padding="0px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Évènement</mj-text>
-        <mj-text padding="0px" align="left" mj-class="T+1 cA+1">Le Salon de l'Étudiant : un moment fort pour Ecosup Assurance !</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">Notre participation les 16, 17 et 18 janvier au Salon du Lycéen et de l'Étudiant (Lille Grand Palais) a été un véritable succès.</mj-text>
+        <mj-text padding="0px" align="left" mj-class="T+1 cA+1">Le salon de l'Étudiant : un moment fort pour Ecosup Assurance !</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Notre participation au salon du Lycéen et de l'Étudiant à Lille Grand Palais les 16, 17 et 18 janvier a été un véritable succès.</mj-text>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">De nombreux jeunes ont montré un vif intérêt pour nos formations et ont pu échanger avec nos équipes. Nous avons pu leur présenter nos formations, répondre à leurs questions et les accompagner dans leur projet d'orientation.</mj-text>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">Merci à tous les visiteurs et un immense merci à nos nombreux étudiants ambassadeurs !</mj-text>
       </mj-column>
