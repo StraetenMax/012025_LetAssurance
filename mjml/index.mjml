@@ -68,7 +68,7 @@
     </mj-section>
     <mj-section background-color="#eff1f5" padding="0">
       <mj-column width="95%">
-        <mj-text padding="5px 10px" align="left" font-size="16px" font-weight="300" color="#2D3748"><span style="font-weight:700;text-transform:uppercase">News Ecosup Assurance</span> | Janvier 2025</mj-text>
+        <mj-text padding="5px 10px" align="left" font-size="16px" font-weight="300" color="#2D3748"><span style="font-weight:700;text-transform:uppercase">News Ecosup Assurance</span>&nbsp;&nbsp;|&nbsp;&nbsp;Janvier 2025</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#E7ECf2" padding="0px">
@@ -79,12 +79,12 @@
     <mj-section background-color="#E7ECf2" padding-top="10px" padding-bottom="40px">
       <mj-column width="88%"> 
         <mj-text padding-top="5px" padding-bottom="0" mj-class="T+2 cA+2" text-transform="uppercase">Édito</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Chers élèves, Chers parents, Chers partenaires... </mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">L'année touche à sa fin, et quel chemin nous avons parcouru ensemble ! Remplie de défis mais aussi de <span style="font-weight:700;color:#2D3748;">belles réussites</span>, cette année aura été riche en émotions, en projets, en réussites et en partenariats !</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Je me joins à l'ensemble des <span style="font-weight:700;color:#2D3748;">équipes d'EcoSup Campus</span> afin de vous remercier pour votre confiance et votre fidélité. Grâce à vous, nous avons pu <span style="font-weight:700;color:#2D3748">accompagner nos étudiants</span> dans de nouvelles entreprises, créer de nouvelles alliances riches et fructueuses, construire un cursus solide offrant de belles opportunités pour l'avenir de nos jeunes... et tant d'autres beaux succès. Janvier nous permettra de faire une édition spéciale sur le bilan de l'année passée.</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Alors que nous nous apprêtons à tourner la page 2024, <span style="font-weight:700;color:#2D3748;">nous regardons vers l'avenir avec optimisme</span>. 2025 s'annonce pleine de promesses et nous avons hâte de partager, encore, de nouveaux projets avec vous...</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">En attendant, toute l'équipe d'<span style="font-weight:700;color:#2D3748;">EcoSup Campus et moi-même vous souhaitons de joyeuses fêtes de fin d'année</span>, entourés de vos proches. Que cette nouvelle année vous apporte santé, bonheur et réussite !</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">A très vite,</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Quelle nouvelle année&nbsp;!</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Pleine de projets et d'ambitions, 2025 s'annonce riche en promesses.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Et ça démarre maintenant&nbsp;! Je suis particulièrement heureux de vous annoncer le lancement de notre nouveau Mastère en Ingénierie Patrimoniale (bac + 5). Ce diplôme, fruit de plusieurs mois de travail, ouvre de nouvelles perspectives à nos étudiants et nous positionne comme un acteur majeur de la formation supérieure dans notre région.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Mais ce n'est pas tout&nbsp;! Notre traditionnelle cérémonie de remise des diplômes a été, une fois de plus, un moment fort en émotions. Voir nos étudiants rayonner de fierté après toutes ces années d'efforts est une immense récompense pour toute l'équipe et un bonheur immense pour leurs familles venues nombreuses malgré les conditions climatiques&nbsp;! </mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Je tiens à remercier chaleureusement la ville de Tourcoing, en particulier Madame le Maire Doriane Becue pour leur soutien indéfectible et pour nous avoir accueillis dans les magnifiques salons de la mairie.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Ensemble, construisons l'avenir de nos étudiants&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
@@ -96,6 +96,7 @@
         <mj-text padding="0px 25px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Objectif Bac+5</mj-text>
         <mj-text padding="0px 25px" align="left" mj-class="T+1 cA+1">Lancement du Mastère Expert(e) en Ingénierie Patrimoniale&nbsp;!</mj-text>
         <mj-text padding="5px 25px" mj-class="T+0 cT-0"><span style="font-weight:700;color:#2D3748;">Ecosup Assurance</span> franchit une nouvelle étape en lançant son <span style="font-weight:700;color:#2D3748;">Mastère Expert en Ingénierie Patrimoniale</span> (bac+5). Ce diplôme, développé en partenariat avec l'École Supérieure d'Assurance de Paris, répond aux enjeux actuels du marché de la gestion de patrimoine.</mj-text>
+        <mj-image padding="5px 25px" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/tps0gWzv/01-Mastere012025.jpg" alt="Étudiante et étudiants travaillant en groupe"/>
         <mj-text padding="5px 25px" mj-class="T+0 cT-0">En choisissant notre mastère, vous intégrerez un <span style="font-weight:700;color:#2D3748;">cursus d'excellence</span> et vous bénéficierez d'un <span style="font-weight:700;color:#2D3748;">accompagnement personnalisé</span> tout au long de votre formation.</mj-text>
         <mj-text padding="5px 25px" mj-class="T+0 cT-0"><span style="font-weight:700;color:#2D3748;">L'avenir s'écrit à Ecosup Assurance&nbsp;!</span></mj-text>
       </mj-column>
@@ -108,7 +109,7 @@
         <mj-spacer height="12px"></mj-spacer>
         <mj-text padding="0 25px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Job Dating Alternance</mj-text>
         <mj-text padding="0 25px" align="left" mj-class="T+1 cA+1">Saisissez votre chance le 17 avril 2025&nbsp;!</mj-text>
-        <mj-text padding="5px 25px" mj-class="T+0 cT-0"><span style="font-weight:700;color:#2D3748;">Ecosup Assurance</span> organise un événement unique dans la région : un <span style="font-weight:700;color:#2D3748;">Job Dating spécial Banque Assurance&nbsp;!</span></mj-text>
+        <mj-text padding="5px 25px" mj-class="T+0 cT-0"><span style="font-weight:700;color:#2D3748;">Ecosup Assurance</span> organise un événement unique dans la région&nbsp;: un <span style="font-weight:700;color:#2D3748;">Job Dating spécial Banque Assurance&nbsp;!</span></mj-text>
         <mj-text padding="5px 25px" mj-class="T+0 cT-0">Venez rencontrer de 14h à 17h30 les <span style="font-weight:700;color:#2D3748;">grands acteurs du secteur</span> (Caisse d'Épargne, Crédit Agricole Sofinco, SMA BTP, Malakoff Humanis, Concilian, SwissLife, AXA, ...) et décrocher votre alternance.</mj-text>
         <mj-text padding="5px 25px" mj-class="T+0 cT-0">Bénéficiez de <span style="font-weight:700;color:#2D3748;">conseils personnalisés</span> de nos partenaires, dont <span style="font-weight:700;color:#2D3748">Grafton Recruitement</span>, spécialiste RH du secteur financier. Rencontrez l'<span style="font-weight:700;color:#2D3748;">OPCO Atlas</span> : acteur indispensable de l'alternance. </mj-text>
         <mj-text padding="5px 25px" mj-class="T+0 cT-0">Avec le <span style="font-weight:700;color:#2D3748;">soutien de la MEL et du Département du Nord</span>, cet événement est une opportunité en or pour <span style="font-weight:700;color:#2D3748;">lancer votre carrière&nbsp;!</span></mj-text>
@@ -116,13 +117,14 @@
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="25%">
-        <mj-image padding="0px" width="480px" border="none" src="https://i.ibb.co/JRKwGQ2/grafton.jpg" alt="Logo Grafton recruitement"/>
+        <mj-image padding="0px" width="480px" border="none" src="https://i.ibb.co/32yz1W1/01-Trading-Game012025.jpg" alt="Trading Game Ecosup Assurance"/>
       </mj-column>
       <mj-column width="75%">
         <mj-spacer height="12px"></mj-spacer>
         <mj-text padding="0 25px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Trading Game</mj-text>
         <mj-text padding="0 25px" align="left" mj-class="T+1 cA+1">Vous avez une âme de gestionnaire de fonds, les marchés boursiers vous fascinent&nbsp;?</mj-text>
         <mj-text padding="5px 25px" mj-class="cT-0 T+0">Alors bienvenue à notre <span style="font-weight:700;color:#2D3748;">concours de trading simulé</span>, une opportunité unique pour nos futurs étudiants de mettre à l'épreuve <span style="font-weight:700;color:#2D3748;">leurs compétences en investissement&nbsp;!</span></mj-text>
+        <mj-image padding="5px 25px" border="none" fluid-on-mobile="true" src="https://i.ibb.co/8nrKz1cD/02-Trading-Game012025.jpg" alt="Fluctuation de la Bourse"></mj-image>
         <mj-text padding="5px 25px" mj-class="cT-0 T+0">Venez vous inscrire à nos Journées Portes Ouvertes afin de participer à ce concours du 25/01/2025 au 25/02/2025. <span style="font-weight:700;color:#2D3748;">De nombreux lots à gagner&nbsp;!</span></mj-text>
         <mj-text padding="5px 25px" mj-class="cT-0 T+0"><span style="font-weight:700;color:#2D3748;">Le but du concours est simple&nbsp;:</span> Vous disposez d'un <span style="font-weight:700;color:#2D3748;">capital fictif de 100 000 euros</span> et l'objectif est de créer un portefeuille d'actions fictif et de réaliser le meilleur rendement sur une période d'un mois.</mj-text>
         <mj-text padding="5px 25px" mj-class="cT-0 T+0">Les participants utiliseront une <span style="font-weight:700;color:#2D3748;">plateforme de trading virtuelle ABC Bourse</span> pour acheter et vendre des actions réelles en temps réel mais virtuellement.</mj-text>
@@ -130,15 +132,15 @@
     </mj-section>
     <mj-section background-color="#EDF2F7">
       <mj-column width="25%">
-        <mj-image padding="0px" width="480px" border="none" src="https://i.ibb.co/f1fmywm/antoine-Hochard.jpg" alt="Antoine Hochard, conseiller bancaire professionnel à la Caisse d'Epargne"/>
+        <mj-image padding="0px" width="480px" border="none" src="https://i.ibb.co/f1fmywm/antoine-Hochard.jpg" alt="Affiche du salon du Lycéen et de l'Étudiant Grand Palais Lille"/>
       </mj-column>
       <mj-column width="75%">
         <mj-spacer height="12px"></mj-spacer>
         <mj-text padding="0px 25px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Évènement</mj-text>
-        <mj-text padding="0px 25px" align="left" mj-class="T+1 cA+1">Le salon de l'Étudiant : un moment fort pour Ecosup Assurance !</mj-text>
+        <mj-text padding="0px 25px" align="left" mj-class="T+1 cA+1">Le salon de l'Étudiant&nbsp;: un moment fort pour Ecosup Assurance&nbsp;!</mj-text>
         <mj-text padding="5px 25px" mj-class="T+0 cT-0">Notre participation au <span style="font-weight:700;color:#2d3748;">salon du Lycéen et de l'Étudiant</span> à Lille Grand Palais les 16, 17 et 18 janvier a été un véritable succès.</mj-text>
         <mj-text padding="5px 25px" mj-class="T+0 cT-0">De nombreux jeunes ont montré un <span style="font-weight:700;color:#2d3748;">vif intérêt pour nos formations</span> et ont pu échanger avec nos équipes. Nous avons pu leur présenter nos formations, répondre à leurs questions et les accompagner dans leur projet d'orientation.</mj-text>
-        <mj-text padding="5px 25px" mj-class="T+0 cT-0">Merci à tous les visiteurs et un immense <span style="font-weight:700;color:#2d3748;">merci à nos nombreux étudiants ambassadeurs</span> !</mj-text>
+        <mj-text padding="5px 25px" mj-class="T+0 cT-0">Merci à tous les visiteurs et un immense <span style="font-weight:700;color:#2d3748;">merci à nos nombreux étudiants ambassadeurs</span>&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0"></mj-section>
@@ -171,8 +173,7 @@
     </mj-section>
     <mj-section background-color="#586c8d" padding-left="23px" padding-right="23px" padding-bottom="10px">
       <mj-column width="100%">
-        <mj-text padding="0px 2px" align="left" font-size="14px" font-weight="900" color="#0a0c10" line-height="18px" text-transform="uppercase" letter-spacing="1px">Apprentissage</mj-text>
-        <mj-text padding="0px 2px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#EDF2F7">Entreprises partenaires qui accueillent nos étudiants</mj-text>
+        <mj-text padding="0px 2px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#EDF2F7">Entreprises accueillant nos étudiants en apprentissage</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#586c8d" padding="0px 23px">
@@ -236,7 +237,7 @@
     <mj-section background-color="#586c8d" padding="20px 32px">
       <mj-column width="320px">
         <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">17 rue Charles et Albert Roussel</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">17 Place Charles et Albert Roussel</mj-text>
         <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc" text-transform="uppercase">59200 Tourcoing</mj-text>
         <mj-text padding="0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
         <mj-text padding="0 0 25px 0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
