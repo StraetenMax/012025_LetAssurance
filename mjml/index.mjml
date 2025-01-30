@@ -127,8 +127,8 @@
         <mj-text padding="0px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Objectif Bac+5</mj-text>
         <mj-text padding="0px" align="left" mj-class="T+1 cA+1">Lancement du Mastère Expert(e) en Ingénierie Patrimoniale&nbsp;!</mj-text>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">Ecosup Assurance franchit une nouvelle étape en lançant son Mastère Expert en Ingénierie Patrimoniale (bac+5). Ce diplôme, développé en partenariat avec l'École Supérieure d'Assurance de Paris, répond aux enjeux actuels du marché de la gestion de patrimoine.</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">En choisissant notre mastère, vous intégrerez un cursus d'excellence et vous bénéficierez d'un accompagnement personnalisé tout au long de votre formation.</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">L'avenir s'écrit à EcoSup Assurance&nbsp;!</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">En choisissant notre mastère, les étudiants intégreront un cursus d'excellence et bénéficieront d'un accompagnement personnalisé tout au long de leur formation.</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">L'avenir s'écrit à Ecosup Assurance&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
@@ -139,7 +139,7 @@
         <mj-spacer height="12px"></mj-spacer>
         <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Job Dating Alternance</mj-text>
         <mj-text padding="0" align="left" mj-class="T+1 cA+1">Saisissez votre chance le 17&nbsp;avril&nbsp;2025&nbsp;! </mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">Ecosup Assurance organise un événement unique dans la région&nbsp;: un Job Dating spécial Banque Assurance&bnsp;! </mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Ecosup Assurance organise un événement unique dans la région&nbsp;: un Job Dating spécial Banque Assurance&nbsp;! </mj-text>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">Venez rencontrer de 14h à 17h30 les grands acteurs de l'assurance et de la banque et décrocher votre alternance. </mj-text>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">Bénéficiez de conseils personnalisés de nos partenaires, dont Grafton Recruitement, spécialiste RH du secteur financier. Rencontrez l'OPCO Atlas : acteur indispensable de l'alternance. Avec le soutien de la MEL et du Département du Nord, cet événement est une opportunité en or pour lancer votre carrière !</mj-text>
       </mj-column>
@@ -151,10 +151,10 @@
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
         <mj-text padding="0px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Évènement</mj-text>
-        <mj-text padding="0px" align="left" mj-class="T+1 cA+1">Le salon de l'Étudiant&nbsp;: un moment fort pour Ecosup Assurance&nsbp;!</mj-text>
+        <mj-text padding="0px" align="left" mj-class="T+1 cA+1">Le salon de l'Étudiant&nbsp;: un moment fort pour Ecosup Assurance&nbsp;!</mj-text>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">Notre participation au salon du Lycéen et de l'Étudiant à Lille Grand Palais les 16, 17 et 18 janvier a été un véritable succès.</mj-text>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">De nombreux jeunes ont montré un vif intérêt pour nos formations et ont pu échanger avec nos équipes. Nous avons pu leur présenter nos formations, répondre à leurs questions et les accompagner dans leur projet d'orientation.</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">Merci à tous les visiteurs et un immense merci à nos nombreux étudiants ambassadeurs&bnsp;!</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Merci à tous les visiteurs et un immense merci à nos nombreux étudiants ambassadeurs&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
