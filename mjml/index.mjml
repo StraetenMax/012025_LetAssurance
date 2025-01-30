@@ -86,7 +86,7 @@
         <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Pleine de projets et d'ambitions, 2025 s'annonce riche en promesses.</mj-text>
         <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Et ça démarre maintenant&nbsp;! Je suis particulièrement heureux de vous annoncer le <span style="font-weight:700;color:#2D3748;">lancement de notre nouveau Mastère en Ingénierie Patrimoniale</span> (bac + 5). Ce diplôme, fruit de plusieurs mois de travail, ouvre de nouvelles perspectives à nos étudiants et nous positionne comme un acteur majeur de la formation supérieure dans notre région.</mj-text>
         <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Mais ce n'est pas tout&nbsp;! Notre traditionnelle <span style="font-weight:700;color:#2D3748;">cérémonie de remise des diplômes</span> a été, une fois de plus, un moment fort en émotions. Voir nos étudiants rayonner de fierté après toutes ces années d'efforts est une immense récompense pour toute l'équipe et un bonheur immense pour leurs familles venues nombreuses malgré les conditions climatiques&nbsp;! </mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Je tiens à remercier chaleureusement la ville de Tourcoing, en particulier Madame le Maire Doriane Becue pour leur soutien indéfectible et pour nous avoir accueillis dans les magnifiques salons de la mairie.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Je tiens à remercier chaleureusement la ville de Tourcoing, en particulier Madame le Maire Doriane Becue pour votre soutien indéfectible et pour nous avoir accueillis dans les magnifiques salons de la mairie.</mj-text>
         <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic"><span style="font-weight:700;color:#2D3748;">Ensemble, construisons l'avenir de nos étudiants&nbsp;!</span></mj-text>
       </mj-column>
     </mj-section>
@@ -102,6 +102,8 @@
         <mj-image padding="5px 25px" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/tps0gWzv/01-Mastere012025.jpg" alt="Étudiante et étudiants travaillant en groupe"/>
         <mj-text padding="5px 25px" mj-class="T+0 cT-0">En choisissant notre mastère, vous intégrerez un <span style="font-weight:700;color:#2D3748;">cursus d'excellence</span> et vous bénéficierez d'un <span style="font-weight:700;color:#2D3748;">accompagnement personnalisé</span> tout au long de votre formation.</mj-text>
         <mj-text padding="5px 25px" mj-class="T+0 cT-0"><span style="font-weight:700;color:#2D3748;">L'avenir s'écrit à Ecosup Assurance&nbsp;!</span></mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/mastere-expert-en-ingenierie-patrimoniale/" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:700" target="_blank">Découvrir la formation...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7">
@@ -252,7 +254,8 @@
         <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">17 Place Charles et Albert Roussel</mj-text>
         <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc" text-transform="uppercase">59200 Tourcoing</mj-text>
         <mj-text padding="0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
-        <mj-text padding="0 0 25px 0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0 0 25px 0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="https://ecosup-campus.com">www.ecosup-campus.fr</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
