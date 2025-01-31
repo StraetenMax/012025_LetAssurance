@@ -124,10 +124,11 @@
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
         <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Job Dating Alternance</mj-text>
-        <mj-text padding="0" align="left" mj-class="T+1 cA+1">Saisissez votre chance le 17&nbsp;avril&nbsp;2025&nbsp;! </mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">Ecosup Assurance organise un événement unique dans la région&nbsp;: un Job Dating spécial Banque Assurance&nbsp;! </mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">Venez rencontrer de 14h à 17h30 les grands acteurs de l'assurance et de la banque et décrocher votre alternance. </mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">Bénéficiez de conseils personnalisés de nos partenaires, dont Grafton Recruitement, spécialiste RH du secteur financier. Rencontrez l'OPCO Atlas : acteur indispensable de l'alternance. Avec le soutien de la MEL et du Département du Nord, cet événement est une opportunité en or pour lancer votre carrière !</mj-text>
+        <mj-text padding="0" align="left" mj-class="T+1 cA+1">Une chance à saisir le 17&nbsp;avril&nbsp;2025&nbsp;! </mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0"><span style="font-weight:700;color:#2d3748">Ecosup Assurance</span> organise un événement unique dans la région&nbsp;: <span style="font-weight:700;color:#2D3748;">un Job Dating spécial Banque Assurance&nbsp;!</span></mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Les participants rencontreront de 14h à 17h30 les grands <span style="font-weight:700;color:#2d3748;">acteurs de l'assurance et de la banque</span> pour décrocher leur alternance. </mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Chaque candidat Bénéficiera de conseils personnalisés de nos partenaires, dont <span style="font-weight:700;color:#2D3748;">Grafton Recruitement</span>, spécialiste RH du secteur financier et pourra rencontrer l'<span style="font-weight:700;color:#2D3748;">OPCO Atlas</span> : acteur indispensable de l'alternance.</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Avec le soutien de la <span style="font-weight:700;color:#2D3748;">MEL et du Département du Nord</span>, cet événement est une opportunité en or pour lancer sa carrière&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
@@ -137,11 +138,11 @@
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
         <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Trading Game</mj-text>
-        <mj-text padding="0" align="left" mj-class="T+1 cA+1">Vous avez une âme de gestionnaire de fonds, les marchés boursiers vous fascinent&nbsp;?</mj-text>
-        <mj-text padding="5px 0" mj-class="cT-0 T+0">Alors bienvenue à notre concours de trading simulé, une opportunité unique pour nos futurs étudiants de mettre à l'épreuve leurs compétences en investissement&nbsp;! </mj-text>
-        <mj-text padding="5px 0" mj-class="cT-0 T+0">Venez vous inscrire à nos Journées Portes Ouvertes afin de participer à ce concours du 25&nbsp;/01&nbsp;/2025 au 25&nbsp;/02&nbsp;/2025. De nombreux lots à gagner&nbsp;! </mj-text>
-        <mj-text padding="5px 0" mj-class="cT-0 T+0">Le but du concours est simple&nbsp;: Vous disposez d'un capital fictif de 100 000 euros et le but est de créer un portefeuille d'actions fictif et réaliser le meilleur rendement sur une période d'un mois.</mj-text>
-        <mj-text padding="5px 0" mj-class="cT-0 T+0">Les participants utiliseront une plateforme de trading virtuelle ABC Bourse pour acheter et vendre des actions réelles en temps réel mais virtuellement.</mj-text>
+        <mj-text padding="0" align="left" mj-class="T+1 cA+1">Une âme de gestionnaire de fonds, les marchés boursiers fascinent...</mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T+0">Alors bienvenue à notre <span style="font-weight:700;color:#2d3748;">concours de trading simulé</span>, une opportunité unique pour nos futurs étudiants de mettre à l'épreuve leurs <span style="font-weight:700;color:#2D3748;">compétences en investissement&nbsp;!</span></mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T+0">Venez vous inscrire à nos Journées Portes Ouvertes afin de participer à ce concours du 25&nbsp;/&nbsp;01&nbsp;/&nbsp;2025 au 25&nbsp;/&nbsp;02&nbsp;/&nbsp;2025. De nombreux lots à gagner&nbsp;! </mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T+0">Le but du concours est simple&nbsp;: Chaque candidat dispose d'un <span style="font-weight:700;color:#2D3748;">capital fictif de 100&nbsp;000&nbsp;euros</span> et le but est de créer un portefeuille d'actions fictif et réaliser le meilleur rendement sur une période d'un mois.</mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T+0">Les participants utiliseront une <span style="font-weight:700;color:#2D3748;">plateforme de trading virtuelle ABC Bourse</span> pour acheter et vendre des actions réelles en temps réel mais virtuellement.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
@@ -163,9 +164,9 @@
         <mj-spacer height="12px"></mj-spacer>
         <mj-text padding="0px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Évènement</mj-text>
         <mj-text padding="0px" align="left" mj-class="T+1 cA+1">Le salon de l'Étudiant&nbsp;: un moment fort pour Ecosup Assurance&nbsp;!</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">Notre participation au salon du Lycéen et de l'Étudiant à Lille Grand Palais les 16, 17 et 18 janvier a été un véritable succès.</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">De nombreux jeunes ont montré un vif intérêt pour nos formations et ont pu échanger avec nos équipes. Nous avons pu leur présenter nos formations, répondre à leurs questions et les accompagner dans leur projet d'orientation.</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">Merci à tous les visiteurs et un immense merci à nos nombreux étudiants ambassadeurs&nbsp;!</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Notre participation au <span style="font-weight:700;color:#2D3748;">salon du Lycéen et de l'Étudiant</span> à Lille Grand Palais les 16, 17 et 18 janvier a été un <span style="font-weight:700;color:#2D3748;">véritable succès</span>.</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">De nombreux jeunes ont montré un <span style="font-weight:700;color:#2D3748;">vif intérêt</span> pour nos formations et ont pu échanger avec nos équipes. Nous avons pu leur présenter nos formations, répondre à leurs questions et les <span style="font-weight:700;color:#2D3748;">accompagner dans leur projet d'orientation</span>.</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Merci à tous les visiteurs et un immense <span style="font-weight:700;color:#2D3748;">merci à nos nombreux étudiants ambassadeurs&nbsp;!</span></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-top="20px" padding-bottom="10px">
