@@ -102,8 +102,8 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0px" border="none" css-class="mobile-hide" src="https://i.ibb.co/nMczt0FK/ESA012025.jpg" alt="Version desktop, logo de l'ESA(École Supérieure d'Assurance) avec un groupe d'étudiants et leur enseignant" width="480px"></mj-image>
-        <mj-image padding="0px" border="none" css-class="mobile-show" src="https://i.ibb.co/3mbWWJ4n/EsaIogo.jpg" alt="Version mobile, logo de l'ESA(École Supérieure d'Assurance) avec un groupe d'étudiants" width="480px"></mj-image>
+        <mj-image padding="0px" border="none" css-class="mobile-hide" src="https://i.ibb.co/nMczt0FK/ESA012025.jpg" alt="Version desktop, logo de l'ESA(École Supérieure d'Assurance) avec un groupe d'étudiants et leur enseignant" width="480px"/>
+        <mj-image padding="0px" border="none" css-class="mobile-show" src="https://i.ibb.co/3mbWWJ4n/EsaIogo.jpg" alt="Version mobile, logo de l'ESA(École Supérieure d'Assurance) avec un groupe d'étudiants" width="480px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
@@ -118,7 +118,8 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0" border="none" width="480px" src="https://i.ibb.co/PvSgrZ77/Etude-IGensia012054.jpg" alt="De plus en plus de jeunes ont recours à l’apprentissage pour se former."/>
+        <mj-image padding="0px" border="none" css-class="mobile-hide" src="https://i.ibb.co/PvSgrZ77/Etude-IGensia012054.jpg" alt="De plus en plus de jeunes ont recours à l'apprentissage pour se former." width="480px"/>
+        <mj-image padding="0px" border="none" css-class="mobile-show" src="https://i.ibb.co/CmV9Byr/112024-A12-Assurance.jpg" alt="De plus en plus de jeunes ont recours à l'apprentissage pour se former." width="480px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
@@ -171,8 +172,8 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0" border="none" css-class="mobile-hide" src="https://i.ibb.co/zT2shC72/affiche-Salon-Etudiant012025.jpg" alt="Affiche du salon du Lycéen et de l'Étudiant les 16, 17 et 18 janvier 2025" width="480px"></mj-image>
-        <mj-image padding="0" border="none" css-class="mobile-show" src="https://i.ibb.co/dJWwz2kb/01-Etudiant.jpg" alt="Affiche du salon du Lycéen et de l'Étudiant les 16, 17 et 18 janvier 2025" width="480px"></mj-image>
+        <mj-image padding="0" border="none" css-class="mobile-hide" src="https://i.ibb.co/zT2shC72/affiche-Salon-Etudiant012025.jpg" alt="Affiche du salon du Lycéen et de l'Étudiant les 16, 17 et 18 janvier 2025" width="480px"/>
+        <mj-image padding="0" border="none" css-class="mobile-show" src="https://i.ibb.co/dJWwz2kb/01-Etudiant.jpg" alt="Affiche du salon du Lycéen et de l'Étudiant les 16, 17 et 18 janvier 2025" width="480px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
