@@ -22,11 +22,21 @@
     </mj-attributes>
     <mj-breakpoint width="480px"/>
     <mj-style>
-      @media (max-width: 480px){
-          .logo{
-              display: none !important;
+      @media only screen and (max-width:480px) { 
+          .mobile-hide { 
+              display: none !important; 
+          }
+          .mobile-show { 
+              display: block !important;
+              width: 100% !important;
+              height: auto !important;
+              visibility: visible !important;
           }
       }
+      .mobile-show {
+          display: none;
+      }
+      
     </mj-style>
   </mj-head>
   <mj-body background-color="#fcfcfc">
@@ -92,7 +102,8 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0px" width="480px" border="none" src="https://i.ibb.co/nMczt0FK/ESA012025.jpg" alt="Antoine Hochard, conseiller bancaire professionnel à la Caisse d'Epargne"/>
+        <mj-image padding="0px" border="none" css-class="mobile-hide" src="https://i.ibb.co/nMczt0FK/ESA012025.jpg" alt="Version desktop, logo de l'ESA(École Supérieure d'Assurance) avec un groupe d'étudiants et leur enseignant" width="480px"></mj-image>
+        <mj-image padding="0px" border="none" css-class="mobile-show" src="https://i.ibb.co/3mbWWJ4n/EsaIogo.jpg" alt="Version mobile, logo de l'ESA(École Supérieure d'Assurance) avec un groupe d'étudiants" width="480px"></mj-image>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>

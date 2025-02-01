@@ -21,11 +21,21 @@ mjml
             mj-class(name="bgcG" background-color="#eff1f5")
         mj-breakpoint(width='480px')/
         mj-style. 
-            @media (max-width: 480px){
-                .logo{
-                    display: none !important;
+            @media only screen and (max-width:480px) { 
+                .mobile-hide { 
+                    display: none !important; 
+                }
+                .mobile-show { 
+                    display: block !important;
+                    width: 100% !important;
+                    height: auto !important;
+                    visibility: visible !important;
                 }
             }
+            .mobile-show {
+                display: none;
+            }
+            
     mj-body(background-color='#fcfcfc')
         //- block content
         block content
