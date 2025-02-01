@@ -133,7 +133,8 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0" border="none" width="480px" src="https://i.ibb.co/fGMWPxzg/affiche-Jpo2025.jpg" alt="Nathalie DORÉ, directrice Impact et Innovation du bancassureur BNP Paribas Cardif"/>
+        <mj-image padding="0" border="none" css-class="mobile-hide" src="https://i.ibb.co/fGMWPxzg/affiche-Jpo2025.jpg" alt="Affiche du Job Dating Assurance et Banque qui aura lieu le 17 avril 2025" width="480px"/>
+        <mj-image padding="0" border="none" css-class="mobile-show" src="https://i.ibb.co/sJ5vYgVt/img-Trading-Game012025-1.jpg" alt="Logo du Job Dating Assurance et Banque qui aura lieu le 17 avril 2025" width="480px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
