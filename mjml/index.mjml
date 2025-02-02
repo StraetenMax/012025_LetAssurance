@@ -142,9 +142,9 @@
         <mj-text padding="0" align="left" mj-class="T+1 cA+1">Une chance à saisir le 17&nbsp;avril&nbsp;2025&nbsp;! </mj-text>
         <mj-text padding="5px 0" mj-class="T+0 cT-0"><span style="font-weight:700;color:#2d3748">Ecosup Assurance</span> organise un événement unique dans la région&nbsp;: <span style="font-weight:700;color:#2D3748;">un Job Dating spécial Banque Assurance&nbsp;!</span></mj-text>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">Les participants rencontreront de 14h à 17h30 les grands <span style="font-weight:700;color:#2d3748;">acteurs de l'assurance et de la banque</span> pour décrocher leur alternance. </mj-text>
-        <mj-image padding="5px 25px" border="none" fluid-on-mobile="true" src="https://i.ibb.co/6csTgzb7/logos-Job-Dating-Blanc032025.jpg" alt="logo des entreprises qui particpent au job dating du 17 avril 2025"/>
+        <mj-image padding="5px 0px" border="none" fluid-on-mobile="true" src="https://i.ibb.co/6csTgzb7/logos-Job-Dating-Blanc032025.jpg" alt="logo des entreprises qui particpent au job dating du 17 avril 2025"/>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">Chaque candidat Bénéficiera de conseils personnalisés de nos partenaires, dont <span style="font-weight:700;color:#2D3748;">Grafton Recruitement</span>, spécialiste RH du secteur financier et pourra rencontrer l'<span style="font-weight:700;color:#2D3748;">OPCO Atlas</span> : acteur indispensable de l'alternance.</mj-text>
-        <mj-image padding="5px 25px" border="none" fluid-on-mobile="true" src="https://i.ibb.co/b5HjkP2C/Help-Job-Dating012025.jpg" alt="logo des partenaires Grafton recruitement et Atlas opco"/>
+        <mj-image padding="5px 0px" border="none" fluid-on-mobile="true" src="https://i.ibb.co/b5HjkP2C/Help-Job-Dating012025.jpg" alt="logo des partenaires Grafton recruitement et Atlas opco"/>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">Avec le soutien de la <span style="font-weight:700;color:#2D3748;">MEL et du Département du Nord</span>, cet événement est une opportunité en or pour lancer sa carrière&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
