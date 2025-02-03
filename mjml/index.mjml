@@ -126,7 +126,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0" border="none" src="https://i.ibb.co/CKkS7Mcf/Ass06012025.jpg.jpg" alt="Affiche du Job Dating Assurance et Banque qui aura lieu le 17 avril 2025" width="480px"/>
+        <mj-image padding="0" border="none" src="https://i.ibb.co/CKkS7Mcf/Ass06012025.jpg" alt="Affiche du Job Dating Assurance et Banque qui aura lieu le 17 avril 2025" width="480px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
@@ -134,9 +134,9 @@
         <mj-text padding="0" align="left" mj-class="T+1 cA+1">Une chance à saisir le 17&nbsp;avril&nbsp;2025&nbsp;! </mj-text>
         <mj-text padding="5px 0" mj-class="T+0 cT-0"><span style="font-weight:700;color:#2d3748">Ecosup Assurance</span> organise un événement unique dans la région&nbsp;: <span style="font-weight:700;color:#2D3748;">un Job Dating spécial Banque Assurance&nbsp;!</span></mj-text>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">Les participants rencontreront de 14h à 17h30 les grands <span style="font-weight:700;color:#2d3748;">acteurs de l'assurance et de la banque</span> pour décrocher leur alternance. </mj-text>
-        <mj-image padding="5px 0px" border="none" fluid-on-mobile="true" src="https://i.ibb.co/6csTgzb7/logos-Job-Dating-Blanc032025.jpg" alt="logo des entreprises qui particpent au job dating du 17 avril 2025"/>
+        <mj-image padding="5px 0px" border="none" fluid-on-mobile="true" src="https://i.ibb.co/7x40j9Qy/Ass-JD01012025.jpg" alt="logo des entreprises qui particpent au job dating du 17 avril 2025"/>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">Chaque candidat Bénéficiera de conseils personnalisés de nos partenaires, dont <span style="font-weight:700;color:#2D3748;">Grafton Recruitement</span>, spécialiste RH du secteur financier et pourra rencontrer l'<span style="font-weight:700;color:#2D3748;">OPCO Atlas</span> : acteur indispensable de l'alternance.</mj-text>
-        <mj-image padding="5px 0px" border="none" fluid-on-mobile="true" src="https://i.ibb.co/b5HjkP2C/Help-Job-Dating012025.jpg" alt="logo des partenaires Grafton recruitement et Atlas opco"/>
+        <mj-image padding="5px 0px" border="none" fluid-on-mobile="true" src="https://i.ibb.co/XkVT3MgX/Ass-JD02012025.jpg" alt="logo des partenaires Grafton recruitement et Atlas opco"/>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">Avec le soutien de la <span style="font-weight:700;color:#2D3748;">MEL et du Département du Nord</span>, cet événement est une opportunité en or pour lancer sa carrière&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
@@ -167,7 +167,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0" border="none" src="https://i.ibb.co/wNhdW3B0/Ass05012025.jpg" alt="Affiche du salon du Lycéen et de l'Étudiant les 16, 17 et 18 janvier 2025" width="480px"/>
+        <mj-image padding="0" border="none" src="https://i.ibb.co/gLSScT8B/Ass05012025.jpg" alt="Affiche du salon du Lycéen et de l'Étudiant les 16, 17 et 18 janvier 2025" width="480px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
@@ -210,63 +210,63 @@
     <mj-section background-color="#586c8d" padding="0px 23px">
       <mj-group width="50%">
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/3CfWWxL/Logo-Assurance14.jpg" alt="logo AXA assurance"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/HfG6H83b/LogoAxa.jpg" alt="logo AXA assurance"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/h8YcCy9/Logo-Assurance13.jpg" alt="logo SMA btp"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/ycTrKBhf/LogoSMA.jpg" alt="logo SMA btp"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/XspTwRh/Logo-Assurance12.jpg" alt="logo DLM location"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/Z1bGydsp/LogoDLM.jpg" alt="logo DLM location"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/1vDhhpM/Logo-Assurance11.jpg" alt="logo Concilian"/>
-        </mj-column>
-      </mj-group>
-      <mj-group width="50%">
-        <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/xY71s8T/Logo-Assurance10.jpg" alt="logo Mésange Prévoyance"/>
-        </mj-column>
-        <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/r3LzxSd/Logo-Assurance09.jpg" alt="logo groupe Henner"/>
-        </mj-column>
-        <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/KNS4FXx/Logo-Assurance08.jpg" alt="logo Allianz assurance"/>
-        </mj-column>
-        <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/zJXqcYB/Logo-Assurance17.jpg" alt="logo Crédit Agricole"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/7NjjDVw2/Logo-Concilian.jpg" alt="logo Concilian"/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/s3Qyqv3/Logo-Assurance07.jpg" alt="logo couleur Swiss Life"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/WWSmKvXZ/Logo-Messange-1.jpg" alt="logo Mésange Prévoyance"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/679nKt3h/Logo-Humanis.jpg" alt="logo couleur Humanis Malakoff"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/BKQL2JSn/Logo-Henner.jpg" alt="logo groupe Henner"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/qdq473M/Logo-Assurance15.jpg" alt="logo couleur Sofinco"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/67qk3wMt/Logo-Allianz.jpg" alt="logo Allianz assurance"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/gP4PsSM/Logo-Assurance04.jpg" alt="logo couleur Deledalle courtier d'assurances"/>
-        </mj-column>
-      </mj-group>
-      <mj-group width="50%">
-        <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/mzbfQs1/Logo-Assurance03.jpg" alt="logo 2M votre courtier assurancess"/>
-        </mj-column>
-        <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/6J8BVCd/Logo-Assurance02.jpg" alt="logo MMA assurance"/>
-        </mj-column>
-        <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/8r9FGG5/Logo-Assurance01.jpg" alt="logo Diot groupe Diot Siaci"/>
-        </mj-column>
-        <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/JR2pRZ39/Logo-Caisse-Epargne.png" alt="logo Caisse d'Épargne"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/S4G3mtg9/Logo-Credit-Agricole.jpg" alt="logo Crédit Agricole"/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image align="left" padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/QPhqYry/assurance-Verspieren.jpg" alt="logo des Assurances Vespieren"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/wFkbN3qf/Logo-Swiss.jpg" alt="logo couleur Swiss Life"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/gbt1vJpF/Logo-Humanis-1.jpg" alt="logo couleur Humanis Malakoff"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/BVR6w4C4/Logo-Sofinco-1.jpg" alt="logo couleur Sofinco"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/012S4CR/Logo-Deledalle.jpg" alt="logo couleur Deledalle courtier d'assurances"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/LDmH5byb/Logo2-M-1.jpg" alt="logo 2M votre courtier assurancess"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/WNv8BHGg/logoMMA.jpg" alt="logo MMA assurance"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/F4rDBWgZ/Logo-Diot-1.jpg" alt="logo Diot groupe Diot Siaci"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/F4PPfbMS/Logo-Caisse-Epargne-1.png" alt="logo Caisse d'Épargne"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image align="left" padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/rKV2QH1n/Logo-Vespieren.jpg" alt="logo des Assurances Vespieren"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px"></mj-column>
       </mj-group>
